@@ -1,16 +1,16 @@
 ---
 schemaId: urn:gala:schema:content-frontmatter:2.0.0
-schemaVersion: "2.0.0"
-id: 00000000-0000-7000-8000-000000000011
+schemaVersion: 2.0.0
+id: 01a19cda-e1cb-7c3a-bd29-b9692b0dcf4a
 kind: page
 title: About
 language: en-US
 authors:
-  - 00000000-0000-7000-8000-000000000002
+- 01a19cda-e1ca-7a20-bfc8-c25a0cd421d6
 tags: []
 status: published
-createdAt: "2026-09-27T00:00:00.000Z"
-publishedAt: "2026-09-27T00:00:00.000Z"
+createdAt: '2026-11-02T15:22:32.778Z'
+publishedAt: '2026-11-02T15:22:32.778Z'
 slug: about
 redirects: []
 extensions: {}
